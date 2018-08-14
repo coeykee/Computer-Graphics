@@ -1,16 +1,17 @@
-<center><h4 style="{background:red;}">TE (CSE) REVISED SYLLABUS, SHIVAJI UNIVERSITY, KOLHAPUR</h4>
+<h5>TE (CSE) REVISED SYLLABUS, SHIVAJI UNIVERSITY, KOLHAPUR</h5>
 <h3>T.E. (Computer Science and Engineering) Semester – V</h3>
-COMPUTER GRAPHICS
-Lectures: 3 hrs/week
-Practicals : 2 hrs/week
-Theory: 100 marks
-Termwork : 50 marks</center>
-Course Objectives:
-1. To expose students to the various transformation techniques and projections.
+<b>COMPUTER GRAPHICS</b>
+<b>Lectures:</b> 3 hrs/week
+<b>Practicals :</b> 2 hrs/week
+<b>Theory:</b> 100 marks
+<b>Termwork :</b> 50 marks
+<b>Course Objectives:</b><ol><li>
+1. To expose students to the various transformation techniques and projections.</li><li>
 2. To make students understand different algorithms concerned with scanning, filling,
-windowing and clipping on graphical objects.
-3. To make the students aware of generation of curves and surfaces.
-4. To give students with hands on exposure to Open GL and Animation tools.
+windowing and clipping on graphical objects.</li><li>
+3. To make the students aware of generation of curves and surfaces.</li><li>
+4. To give students with hands on exposure to Open GL and Animation tools.</li>
+
 <ul><li>
 UNIT 1: Transformations
 Basic 2D & 3D transformations - Translation, Scaling, Rotation, Reflection, Shearing, Multiple
