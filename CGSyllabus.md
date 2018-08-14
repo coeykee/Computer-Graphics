@@ -6,11 +6,11 @@
 <b>Theory:</b> 100 marks
 <b>Termwork :</b> 50 marks
 <b>Course Objectives:</b><ol><li>
-1. To expose students to the various transformation techniques and projections.</li><li>
-2. To make students understand different algorithms concerned with scanning, filling,
+To expose students to the various transformation techniques and projections.</li><li>
+To make students understand different algorithms concerned with scanning, filling,
 windowing and clipping on graphical objects.</li><li>
-3. To make the students aware of generation of curves and surfaces.</li><li>
-4. To give students with hands on exposure to Open GL and Animation tools.</li>
+To make the students aware of generation of curves and surfaces.</li><li>
+To give students with hands on exposure to Open GL and Animation tools.</li></ol>
 
 <ul><li>
 UNIT 1: Transformations
