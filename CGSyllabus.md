@@ -1,51 +1,51 @@
-<h5>TE (CSE) REVISED SYLLABUS, SHIVAJI UNIVERSITY, KOLHAPUR</h5>
 <h3>T.E. (Computer Science and Engineering) Semester – V</h3>
 <b>COMPUTER GRAPHICS</b>
-<b>Lectures:</b> 3 hrs/week
-<b>Practicals :</b> 2 hrs/week
-<b>Theory:</b> 100 marks
-<b>Termwork :</b> 50 marks
+<b>Lectures:</b> 3 hrs/week<br>
+<b>Practicals :</b> 2 hrs/week<br>
+<b>Theory:</b> 100 marks<br>
+<b>Termwork :</b> 50 marks<br>
+<hr>
 <b>Course Objectives:</b><ol><li>
 To expose students to the various transformation techniques and projections.</li><li>
 To make students understand different algorithms concerned with scanning, filling,
 windowing and clipping on graphical objects.</li><li>
 To make the students aware of generation of curves and surfaces.</li><li>
 To give students with hands on exposure to Open GL and Animation tools.</li></ol>
-
-<ul><li>
-UNIT 1: Transformations
+<hr>
+<h3>Syllabus</h3>
+Transformations
 Basic 2D & 3D transformations - Translation, Scaling, Rotation, Reflection, Shearing, Multiple
 Transformations, Rotation about an axis parallel to a coordinate axis, rotation about an arbitrary
 axis in space, Affine and Perspective Geometry, Orthographic projections and Axonometric
 projections.
 (8)</li>
 <li>
-UNIT 2: Raster Scan Graphics
+Raster Scan Graphics
 Bresenham's line and circle drawing algorithms, Scan Conversion techniques: RLE, Frame
 Buffer, Scan converting polygons: Edge fill and Seed fill algorithms, Anti-aliasing and Half-
 toning.
 (7)</li>
-UNIT 3: Viewing and clipping
+Viewing and clipping
 Introduction, Windowing and View-porting, Introduction to clipping, Point clipping, and line
 clipping: Sutherland - Cohen line clipping algorithm.
 (4)
 <li>
-UNIT 4: Curves and Surfaces
+Curves and Surfaces
 Curve Representation, Non-parametric and parametric curves, representation of space curves,
 Cubic Spline, Parabolic Blended curves, Bezier curves and B-spline curves, Z- buffer, Warnock
 algorithm.
 (7)
 </li><li>
-UNIT 5: Computer Animation
+Computer Animation
 Introduction, Key frame animation, Construction of an animation sequence, Motion control
 methods, Procedural animation, Key-frame animation vs. Procedural animation, Introduction to
 Morphing, Wraping techniques, Three dimensional morphing.
 (5)</li><li>
-UNIT 6: Illumination models and surface rendering methods.
+Illumination models and surface rendering methods.
 Light sources, Basic illumination models, Displaying light intensities, Halftone patterns and
 Dithering Techniques, Polygon Rendering methods, Ray tracing methods, Radiosity lighting
 model.
-(6)</li>
+(6)</li></ol>
 
 <h3>Text Books:</h3>
 1. Mathematical elements for Computer Graphics - David F. Rogers, J. Alan Adams (MGH
